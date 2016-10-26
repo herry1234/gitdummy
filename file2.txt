@@ -1,1 +1,4 @@
 rebase test
+Line master
+Line in br2 
+Line in br2 

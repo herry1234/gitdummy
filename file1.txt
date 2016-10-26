@@ -4,3 +4,4 @@ TEST
 br1: added by user2
 br1: added by user1
 br1: update
+try amend
